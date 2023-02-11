@@ -1,0 +1,17 @@
+    body{
+            background-color: azure;
+    }
+    hr{
+        
+        border-style:  none;
+        border-top-style: dotted;
+        width : 5%;
+        border-color: grey;
+        border-width : 5px;
+    } 
+    h3, h1{
+        color: aqua;
+    }
+   
+
+    
